@@ -1,0 +1,8 @@
+.bannerbg {
+  background-color: rgba(253, 126, 20, 0.65);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  background-image: url("../../assets/images/background-image-2.jpg"), linear-gradient(rgb(58, 58, 170), rgb(192, 231, 249));;
+}
