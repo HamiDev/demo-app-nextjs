@@ -105,3 +105,6 @@ a {
     color-scheme: dark;
   }
 } */
+
+@import 'leaflet/dist/leaflet.css';
+@import url("leaflet/dist/leaflet.css");

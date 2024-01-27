@@ -32,6 +32,7 @@
     "@tiptap/starter-kit": "^2.1.16",
     "dayjs": "^1.11.10",
     "embla-carousel-react": "^7.1.0",
+    "leaflet-defaulticon-compatibility": "^0.1.2",
     "next": "14.0.4",
     "next-cloudinary": "^5.20.0",
     "react": "^18",
